@@ -14,7 +14,7 @@ T: Transpose
 
 Normal Equation:
 
-@ = ((X^T)*X)^-1)*((X^T)*Y)
+@ = ((X^T )*X)^-1 )*((X^T )*Y)
 
 Hypothesis: h(@) = @0 + @1*x1
 

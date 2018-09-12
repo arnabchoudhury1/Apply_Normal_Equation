@@ -12,7 +12,7 @@ df = pd.read_csv("data.csv")
 data = df.values.T.tolist()
 #print(data['brain_weight'])
 print(data)
-plt.plot(data[1], data[2], 'ro')
+plt.plot(data[0], data[1], 'ro')
 
 plt.ylabel('Brain Weight')
 plt.xlabel('Body Weight')

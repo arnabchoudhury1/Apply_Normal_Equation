@@ -2,11 +2,14 @@
 
 Using Normal Equation to find theta values of a linear model to find pattern between BODY WEIGHT and Brain WEIGHT of Mammals.
 
-X: Feature matrix \n
-Y: Label/Output matrix \n
-@: theta \n
-T: Transpose \n
--1: inverse \n
+X: Feature matrix
+
+Y: Label/Output matrix
+
+@: theta
+
+T: Transpose
+
 ^: power \n
 
 Normal Equation:

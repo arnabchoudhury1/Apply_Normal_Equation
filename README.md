@@ -10,8 +10,6 @@ Y: Label/Output matrix
 
 T: Transpose
 
-^: power \n
-
 Normal Equation:
 
 @ = ((X^T )*X)^-1 )*((X^T )*Y)

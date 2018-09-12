@@ -2,16 +2,16 @@
 
 Using Normal Equation to find theta values of a linear model to find pattern between BODY WEIGHT and Brain WEIGHT of Mammals.
 
-X: Feature matrix
-Y: Label/Output matrix
-@: theta
-T: Transpose
--1: inverse
-^: power
+X: Feature matrix \n
+Y: Label/Output matrix \n
+@: theta \n
+T: Transpose \n
+-1: inverse \n
+^: power \n
 
 Normal Equation:
 
-@ = ((X^T*X)^-1)*(X^T*Y)
+@ = ((X^T)*X)^-1)*((X^T)*Y)
 
 Hypothesis: h(@) = @0 + @1*x1
 

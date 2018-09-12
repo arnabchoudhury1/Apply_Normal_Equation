@@ -4,7 +4,23 @@ Using Normal Equation to find theta values of a linear model to find pattern bet
 
 X: Feature matrix
 
+X = ([[1, a, b, ., .],
+	  [1, ., ., ., .],
+	  [., ., ., ., .],
+	  [., ., ., ., .],
+	  [., ., ., ., .],
+	  [1, ., ., ., .]])
+
 Y: Label/Output matrix
+
+Y = ([[1],
+	  [2],
+	  [3],
+	  [4],
+	   .
+	   .
+	   .
+	  [n]])
 
 @: theta
 

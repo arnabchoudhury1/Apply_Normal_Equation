@@ -14,8 +14,8 @@ data = df.values.T.tolist()
 print(data)
 plt.plot(data[0], data[1], 'ro')
 
-plt.ylabel('Brain Weight')
-plt.xlabel('Body Weight')
+plt.xlabel('Brain Weight')
+plt.ylabel('Body Weight')
 
 plt.show()
 
